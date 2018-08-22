@@ -13,6 +13,14 @@
                     <key>url</key>
                     <string>https://6188hct.com/download/htcGame_resigned.ipa</string> 
                 </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://6188hct.com/download/hct.png</string>
+                </dict>
             </array>
             <key>metadata</key>
             <dict>
